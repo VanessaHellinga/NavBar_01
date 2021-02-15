@@ -1,0 +1,33 @@
+.banner--container {
+    width: 100%;
+    height: 84px;
+    background-color: #BDEDF2;
+    display: inline-flex;
+}
+
+.logo--name {
+    font-family: 'Ballet', cursive;
+    font-size: 58px;
+    color: #5A3D3A;
+    margin: 0;
+    width: 40%;
+}
+
+.banner--list {
+    width: 40%;
+    display: inline-flex;
+    justify-content: space-around;
+    margin-top: 2.5%;
+    margin-left: 200px;
+  
+}
+li{
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #05060D;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px; 
+}
